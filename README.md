@@ -1,5 +1,7 @@
 # heartCases
 
+**Note: this is an archive version of this repository. Please see [this location](https://github.com/UCLA-BD2K/heartCases) for the updated version.**
+
 <img src="https://github.com/caufieldjh/heartCases/blob/master/heartcases_icon_1.png" alt="heartCases logo" width="100">
 A medical language processing system for case reports. Though primarily intended for case reports involving cardiovascular disease, the system works with a variety of medical subjects.
 
